@@ -25,3 +25,7 @@ The services strip uses a continuous CSS marquee moving left, with a duplicate g
 ## Vercel deployment
 
 The repository is prepared for Vercel as a static site with no dependency installation or build step. `vercel.json` serves the repository root. Import `Hurkify-Team/Tranzelo-Movers` into Vercel with framework **Other**, root directory **./**, and production branch **main**. Once the GitHub integration is connected, pushes to `main` trigger production deployments; other branches create previews. Repository configuration alone does not create the Vercel project or authorize GitHub access.
+
+## Interface refinements
+
+Booking uses a two-column card layout with aligned actions, switching to one column on mobile. All WhatsApp links include a decorative inline SVG icon and preserve their context-specific drafts. Mobile styles improve touch targets, header scrolling, text wrapping, and contact links. Testimonials retain their attributed short excerpts; public Instagram, Facebook, and TikTok searches did not return additional verifiable customer feedback. No social comments or ratings were fabricated. Browser visual QA was unavailable in this session; HTML references, WhatsApp destinations and drafts, and JavaScript syntax were checked.
