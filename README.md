@@ -29,3 +29,5 @@ The repository is prepared for Vercel as a static site with no dependency instal
 ## Interface refinements
 
 Booking uses a two-column card layout with aligned actions, switching to one column on mobile. All WhatsApp links include a decorative inline SVG icon and preserve their context-specific drafts. Mobile styles improve touch targets, header scrolling, text wrapping, and contact links. Testimonials retain their attributed short excerpts; public Instagram, Facebook, and TikTok searches did not return additional verifiable customer feedback. No social comments or ratings were fabricated. Browser visual QA was unavailable in this session; HTML references, WhatsApp destinations and drafts, and JavaScript syntax were checked.
+
+Confirmed social destinations supplied by the owner: https://www.instagram.com/tranzelo_movers/ and https://www.tiktok.com/@tranzelomovers/video/7664612533709360402. Both are linked from the reviews section and footer. Direct Instagram, TikTok, and Google content retrieval was unavailable; social content has not been used as customer testimony.
