@@ -4,9 +4,13 @@ Open `index.html`, or serve this directory with `python -m http.server 8080` and
 
 The supplied project contained compiled React/TanStack bundles for the previous company, but no HTML entry point, source tree, package manifest, build command, or working form service. The rebrand is a dependency-free static page in `index.html`, `styles.css`, and `script.js`. The previous company's unused compiled bundles, fonts, photos, logo, and favicon have been removed after checking current page references. No deployment has been performed.
 
-## Contact activation
+## Contact and booking
 
-The verified phone number is +234 904 854 4147. Call links (`tel:+2349048544147`) are active in the contact section and footer. Email links use tranzelologistics@gmail.com. WhatsApp is not linked because support for this number has not been confirmed. The quote buttons navigate to the contact section, where visitors can call. The checklist does not collect or send information. A submission endpoint and delivery destination are required before adding a quote form.
+The verified phone and WhatsApp number is +234 904 854 4147. Booking, inspection, quotation, and contact actions open WhatsApp with a separate URL-encoded draft for each purpose. Visitors fill in the bracketed details, edit the message, and send it themselves. Opening a link does not send a message or confirm a booking. Call links remain available in the footer, and email links use tranzelologistics@gmail.com. There is no quote form or submission endpoint.
+
+## Customer review sources
+
+Three short review excerpts are attributed to the names shown by Ranked: omosehin O., Mmesoma U., and Kate J. Source: https://ranked.ng/vs/moveeasyng-gde8wy/tranzelo-movers-bzyxu8 (accessed 7 November 2026). Ranked attributes these reviews to Google. Direct Google review access was unavailable during implementation; the site explicitly credits Ranked and links to its source. No aggregate score, reviewer photos, or individual star ratings have been added.
 
 ## Assets and typography
 
