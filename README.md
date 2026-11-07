@@ -17,3 +17,7 @@ The four supplied Tranzelo photos have AI-enhanced versions for improved exposur
 Run `node --check script.js` and `python validate.py`. No framework build is required. Browser visual checks remain required before publication when a browser is available.
 
 The services strip uses a continuous CSS marquee moving left, with a duplicate group hidden from assistive technology. The animation is disabled for reduced-motion preferences.
+
+## Vercel deployment
+
+The repository is prepared for Vercel as a static site with no dependency installation or build step. `vercel.json` serves the repository root. Import `Hurkify-Team/Tranzelo-Movers` into Vercel with framework **Other**, root directory **./**, and production branch **main**. Once the GitHub integration is connected, pushes to `main` trigger production deployments; other branches create previews. Repository configuration alone does not create the Vercel project or authorize GitHub access.
